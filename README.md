@@ -1,7 +1,7 @@
   ![image](https://user-images.githubusercontent.com/114678694/196738791-3f3404da-e5cf-42aa-8004-ff4819e86fa1.png)
 <h1 align="center">TruHealth</h1>
 
-TruHealth is an application that helps you to maintain **Good Health**.
+TruHealth is an application that helps you maintain good health.
 <h3>TruHealth:TruHealth is a state of optimal physical, mental and social well-being and not merely the absence of disease.</h3>
 
 Hey! If you are feeling that your health is not going in right direction or you are feeling depressed, then **TruHealth** comes with a solution.
@@ -79,9 +79,3 @@ https://truhealth.vercel.app/
 |   └─── script.js
 
 
-<h1 align=center> 🙌 Contributors</h1>
-<br>
-<a href="https://github.com/ghulamyazdani/TruHealth/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=ghulamyazdani/TruHealth" />
-</a>
-<br>
