@@ -78,26 +78,6 @@ https://truhealth.vercel.app/
 │   ├─── quiz.js
 |   └─── script.js
 
-```
-
-<!--affanyusuf-->
-##  ▶️ How to Run the Project
-**1.** Navigate to the project directory.
--->
-
-<h1 align=center> 👨‍💻 Project Admin </h1>
-
-  <div align="center">
-<table>
-<tr>
-
-<td align="center"><a href="https://github.com/ghulamyazdani"><img src="https://avatars.githubusercontent.com/u/55938346?v=4" width=150px height=150px /></a></br> <h4 style="color:white;">Ghulamyazdani</h4>
-
-</tr>
-</table>
-<br>
-
-<br>
 
 <h1 align=center> 🙌 Contributors</h1>
 <br>
